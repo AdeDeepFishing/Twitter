@@ -1,5 +1,7 @@
 # Twitter - Part I
 
+collaborator: @codepathreview
+
 This is a basic twitter app to read your tweets.
 
 Time spent: 8 hours spent in total
