@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/Yz48NvT.gif)
 
-![Uploading ezgif.com-gif-maker2.gif…]()
+![ezgif com-gif-maker2](https://user-images.githubusercontent.com/91364746/138346029-206be5e8-7158-4951-b184-a8b945f3de6d.gif)
+
 
 
 ![](https://i.imgur.com/buiAnrQ.gif)
