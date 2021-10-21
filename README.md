@@ -25,10 +25,12 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/mA0Sxz4.gif)
 
+![ezgif com-gif-maker1](https://user-images.githubusercontent.com/91364746/138345928-e83406af-d77c-4551-a760-664db3a8d693.gif)
 
 
 ![](https://i.imgur.com/Yz48NvT.gif)
 
+![Uploading ezgif.com-gif-maker2.gif…]()
 
 
 ![](https://i.imgur.com/buiAnrQ.gif)
